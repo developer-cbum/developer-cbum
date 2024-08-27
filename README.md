@@ -6,7 +6,7 @@
 ## Profile
 👩 이종문 <br>
 👶 1998.01.08 <br>
-📞 010-4057-3327 <br>
+✉ dal.semicolon@gmail.com  <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dal.semicolon@gmail.com)](mailto:dal.semicolon@gmail.com) <span><a href="https://www.notion.so/a1637cbd65864bb49752e205b39d3cb3"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
